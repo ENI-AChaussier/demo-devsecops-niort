@@ -1,0 +1,11 @@
+# Databases
+*.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Vim
+*.swo
+*.swp
